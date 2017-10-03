@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Oct 03 17:25:13 PET 2017
+base.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a124ff826a0107c5fc8f44a466d1a3c14bc4e63
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87ac8decc189ec7221a947a5c6b938a5edebddbd/classes.dex
+base.1=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87ac8decc189ec7221a947a5c6b938a5edebddbd
+file.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a124ff826a0107c5fc8f44a466d1a3c14bc4e63/classes.dex
