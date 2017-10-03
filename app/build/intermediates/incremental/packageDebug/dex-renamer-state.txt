@@ -1,7 +1,0 @@
-#Tue Oct 03 16:47:05 PET 2017
-base.0=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f20512b4effee92c173378bcba0f78a2f8f8f108
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de0ef13c3330165ce485bfcba3e036740664b317/classes.dex
-base.1=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_de0ef13c3330165ce485bfcba3e036740664b317
-file.0=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f20512b4effee92c173378bcba0f78a2f8f8f108/classes.dex
