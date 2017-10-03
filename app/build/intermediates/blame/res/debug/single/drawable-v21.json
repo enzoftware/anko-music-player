@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/a3ed928f3372f59f1805274fe6195d77ddd931cf/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/a3ed928f3372f59f1805274fe6195d77ddd931cf/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Oct 03 16:36:49 PET 2017
+base.0=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

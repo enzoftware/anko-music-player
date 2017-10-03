@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    }
+]

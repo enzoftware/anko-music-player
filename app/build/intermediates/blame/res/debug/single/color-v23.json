@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/enzoftware/.android/build-cache/a3ed928f3372f59f1805274fe6195d77ddd931cf/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/enzoftware/.android/build-cache/70c382e95a6ab98c0635806cc039d62558d2f07f/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

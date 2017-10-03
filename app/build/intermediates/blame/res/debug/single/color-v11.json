@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/enzoftware/.android/build-cache/a3ed928f3372f59f1805274fe6195d77ddd931cf/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/enzoftware/.android/build-cache/a3ed928f3372f59f1805274fe6195d77ddd931cf/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
