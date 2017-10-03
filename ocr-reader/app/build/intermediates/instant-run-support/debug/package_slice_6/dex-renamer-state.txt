@@ -1,4 +1,4 @@
-#Tue Oct 03 17:32:29 PET 2017
-base.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+#Tue Oct 03 17:48:03 PET 2017
+base.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
 renamed.0=classes.dex
-file.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex
+file.0=/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

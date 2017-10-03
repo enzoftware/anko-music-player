@@ -39,21 +39,21 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b78a9b58cb5d644feb95aff7c13ae6968cb69b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/enzoftware/.android/build-cache/156f98013da303c2a4087d68d01ca491c8cdada5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
         <dex dex="/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c0bbe055fbabdf636270bb22526a587b31b66aa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_87ac8decc189ec7221a947a5c6b938a5edebddbd/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,15 +183,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9bdc74f9881a0f19a5a0d0e9dca553bbaf3c18f4">
-        <dex dex="/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3a124ff826a0107c5fc8f44a466d1a3c14bc4e63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/enzoftware/.android/build-cache/fd4c69b906d5a2063add85ab00402861d4538148/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -216,6 +207,15 @@
         revision="25.0.0"
         sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
         <dex dex="/home/enzoftware/Projects/curious-things/android-vision-master/visionSamples/ocr-codelab/ocr-reader-complete/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb2a0f46aae37608c0c3b0a93e47b8d8ed215522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="496e1c38598924f52d8753f18b7e26a31a213057">
+        <dex dex="/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08592d853112f0fdc375f539dcc87324f8cc0fea/classes.dex" />
     </item>
     <item
         is-multidex="true"

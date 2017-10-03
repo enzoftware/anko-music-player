@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/enzoftware/Projects/optical-character-recognition/ocr-reader/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/home/enzoftware/Projects/optical-character-recognition/ocr-reader-complete/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/enzoftware/.android/build-cache/bace3210d40e335bf4d41b4eaa8c5ae7a7f0ef2e/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
