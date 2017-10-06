@@ -24,10 +24,7 @@ import com.google.android.gms.samples.vision.ocrreader.ui.camera.GraphicOverlay
 import com.google.android.gms.vision.text.Text
 import com.google.android.gms.vision.text.TextBlock
 
-/**
- * Graphic instance for rendering TextBlock position, size, and ID within an associated graphic
- * overlay view.
- */
+
 class OcrGraphic internal constructor(overlay: GraphicOverlay<*>, val textBlock: TextBlock?) : GraphicOverlay.Graphic(overlay) {
 
     var id: Int = 0
@@ -50,15 +47,6 @@ class OcrGraphic internal constructor(overlay: GraphicOverlay<*>, val textBlock:
         postInvalidate()
     }
 
-    /**
-     * Checks whether a point is within the bounding box of this graphic.
-     * The provided point should be relative to this graphic's containing overlay.
-     * @param x An x parameter in the relative context of the canvas.
-     * *
-     * @param y A y parameter in the relative context of the canvas.
-     * *
-     * @return True if the provided point is contained within this graphic's bounding box.
-     */
     override fun contains(x: Float, y: Float): Boolean {
         if (textBlock == null) {
             return false
@@ -71,9 +59,7 @@ class OcrGraphic internal constructor(overlay: GraphicOverlay<*>, val textBlock:
         return rect.left < x && rect.right > x && rect.top < y && rect.bottom > y
     }
 
-    /**
-     * Draws the text block annotations for position, size, and raw value on the supplied canvas.
-     */
+
     override fun draw(canvas: Canvas) {
         if (textBlock == null) {
             return
